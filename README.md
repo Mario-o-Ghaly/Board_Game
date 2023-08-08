@@ -1,6 +1,6 @@
 # Board_Game
 ## Overview
-This is an elementary board game implemented in C++ without using any GUI 
+This is an elementary board game implemented in *C++* without using any GUI 
 
 ## Game Mechanics
 There is an island with a bridge **B** always in the middle row and the rightmost of the island, with 2 cats **C** whose positions are defined by the user.
