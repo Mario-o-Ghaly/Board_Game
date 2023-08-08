@@ -1,6 +1,7 @@
 # Board_Game
 ## Overview
 This is an elementary board game implemented in *C++* without using any GUI.
+
 This game was developed by the author individually in Fall 2021.
 
 ## Game Mechanics
