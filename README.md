@@ -17,4 +17,4 @@ After these movements, there are 4 possibilities for each animal:
 The only way to win is by escaping through the bridge.
 
 ## User Guide
-If you want to try the game download the whole folder and run the file named **game.exe**.
+If you want to try the game, download the whole folder and run the file named **game.exe**.
