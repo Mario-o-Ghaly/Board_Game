@@ -2,7 +2,7 @@
 ## Overview
 This is an elementary board game implemented in **C++** without using any GUI.
 
-This game was developed by the author individually in Fall 2021.
+This game was developed by the author individually at the American University in Cairo during Fall 2021.
 
 ## Game Mechanics
 There is an island with a bridge **B** always in the middle row and the rightmost of the island, with 2 cats **C** whose positions are defined by the user.
